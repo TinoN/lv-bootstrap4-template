@@ -7,10 +7,11 @@
 	$ laravel new PROJECT
 ```
 
-- Switch into new PROJECT, create Authentication layer and install bootstrap 4.0.0-beta and popper.js (needed for tooltips)
+- Switch into new PROJECT, create Authentication layer, remove bootstrap-sass and install bootstrap 4.0.0-beta and popper.js (needed for tooltips)
 ```
 	$ cd PROJECT
 	$ php artisan make:auth
+	$ npm uninstall --save bootstrap-sass
 	$ npm install --save bootstrap@4.0.0-beta popper.js
 ```
 
