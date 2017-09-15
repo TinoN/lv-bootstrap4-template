@@ -1,4 +1,4 @@
-# Bootstrap 4 (BETA) with Laravel 5.5
+# Laravel 5.5 (5.4) Basic Template with Bootstrap 4 (BETA)
 
 - Derived from [Bootstrap starter template](http://getbootstrap.com/docs/4.0/examples/starter-template/)
 
