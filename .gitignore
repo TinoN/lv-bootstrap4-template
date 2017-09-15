@@ -1,0 +1,14 @@
+# ignore everything
+*
+
+# but dont ignore single files in root
+!.gitignore
+!README.md
+!LICENSE
+
+# but don't ignore resources and subfolder/-files
+!resources/
+!resources/**
+
+
+
