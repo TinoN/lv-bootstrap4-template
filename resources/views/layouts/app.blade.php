@@ -21,7 +21,7 @@
         @yield('content') <!-- depends on which route was called -->
     </div>
 
-    
+
     <!-- Scripts -->
     <script src="{{ asset('js/app.js') }}"></script>
 </body>
