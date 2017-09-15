@@ -33,4 +33,4 @@
 	$ php artisan serve
 ```
 
-*Any comments and questions are welcome!*
+*Any comments, corrections and/or questions are welcome!*
